@@ -1,3 +1,4 @@
 pynput==1.6.8
 python-osc==1.7.4
 pymouse==1.0
+pyuserinput==0.1.11
